@@ -1,0 +1,22 @@
+ls lista arquivos
+cd muda de diretorio
+ls -t exibe na horizontal 
+ls -l exibe arquivos de forma vertical 
+ls -a exibe os arquivos ocultos 
+ls -alt  mestra ate os arquivos, diretorio ocultos 
+pwd mostra o ficheiro onde vc esta 
+cp copia arquivos
+mkdir  cria um novo diretorio na area de serviço corente 
+touch cria um novo ficheiro 
+del remove o arquivo 
+rm remove o diretorio 
+cat Exibe o conteúdo completo do arquivo
+wc -l: imprime o número de linhas em um arquivo.
+wc -w: imprime o número de palavras em um arquivo.
+wc -c: Exibe a contagem de bytes em um arquivo.
+wc -m: imprime a contagem de caracteres de um arquivo.
+wc -L: imprime apenas o comprimento da linha mais longa em um arquivo.
+cat >> newFile vai começar a permitir que você insira dados em um arquivo chamado newFile, ou se esse arquivo já existir acrescente os novos dados no final. Depois que você terminar de digitar os dados para colocar dentro do arquivo, você ' Vou querer pressionar Ctrl-D no teclado 
+cat -n newFile: nos permitirá ver os números de linha do arquivo
+cat -b newFile: contará apenas linhas não-brancas
+cat -s newFile: irá suprimir várias linhas em branco para um máximo de um
